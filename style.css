@@ -1,0 +1,43 @@
+body
+{
+	background-color: lavender;
+}
+#header
+{
+	color:white;
+	font-family: 'Dancing Script', cursive;
+	padding:5px;
+	font-size:40px;
+}
+#logo
+{
+	float:left;
+	height: 100px;
+	width:118px;
+	margin-right:50px;
+	margin-left:50px;
+}
+#menu
+{
+	background-color: dimgray;
+	font-family: Calibri Light;
+	margin-top:20px;
+	padding:10px;
+	color:white;
+}
+.option
+{
+	float:left;
+	min-width:120px;
+	border-right: 2px dotted gray;
+	padding:10px;
+	height:25px;
+	font-size:18px;
+	opacity:0.8;
+	margin-bottom:2px;
+}
+.option:hover
+{
+	cursor:pointer;
+	background-color:#333333;
+}
